@@ -1,0 +1,21 @@
+.content{
+    text-align: center;
+    margin: 20px;
+}
+button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #43a047;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+button:hover{
+    background-color:  #2e7d32;
+}
+
+.listaTareas{
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
